@@ -1,0 +1,6 @@
+Centering problémák
+Szövegek a képbe valo behelyezése desktop nézetben
+képek helyes egysorba rendezése
+kék,sárga,és piros nyil design a képek körul és nyil magyarázat mellett
+Hover és click funkciok az elemeken
+tablet és kisebb nézetben szöveg ikonra valo cseréje
